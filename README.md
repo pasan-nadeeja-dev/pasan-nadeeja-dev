@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pasan, a fullstack software engineer and technical blog writter who spent most time for creating projects and exploring coding techniques.
+I'm Pasan, a fullstack software engineer and technical blogger who spent most time for creating projects and exploring coding techniques.
 
 - 🔭 I’m currently working at @smashtaps
 - 🌱 I’m currently learning TDD bast practices 
