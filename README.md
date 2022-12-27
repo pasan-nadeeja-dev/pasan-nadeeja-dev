@@ -1,18 +1,16 @@
 ### Hi there 👋
 
+I'm Pasan, a fullstack software engineer and technical blog writter who spent most time for creating projects and exploring coding techniques.
+
+- 🔭 I’m currently working at @smashtaps
+- 🌱 I’m currently learning TDD bast practices 
+- ⚡ Fun fact: I like hiking
+
+<!--- 
+- 😄 Pronouns: ... 
+- 📫 How to reach me:
+--->
+
+### Github stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pasan-nadeeja-dev)](https://git.io/streak-stats)
-
-<!--
-**pasan-nadeeja-dev/pasan-nadeeja-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
